@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hands Clock Complete</string>
+    <string name="clock_face_description">background numbers and hours marks</string>
+    <string name="clock_hands_description">clock hands</string>
+</resources>
